@@ -67,7 +67,7 @@ Your feedback is welcome! Feel free to open a **Pull Request** if you see areas 
 
 ## 📬 Connect With Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)
+* 💼 [LinkedIn](https://www.linkedin.com/in/manjot-singh-a24224319)
 * 📧 [mr.manjotsingh5698@gmail.com](mailto:mr.manjotsingh5698@gmail.com)
 * 💻 [GitHub Profile](https://github.com/Manjot5698)
 
