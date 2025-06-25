@@ -1,6 +1,5 @@
-Here’s a polished, structured `README.md` for your **LeetCode‑Solutions** repo. Just copy and paste directly, then customize and push:
 
-```markdown
+
 # 🚀 LeetCode Solutions in Java
 
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-✔%20Solved-orange?style=for-the-badge&logo=LeetCode)
@@ -10,7 +9,7 @@ Welcome to **LeetCode‑Solutions**, my dedicated space to master Data Structure
 ---
 
 ## 📂 Repository Structure
-```
+````
 
 LeetCode-Solutions/
 ├── Arrays/
@@ -76,5 +75,5 @@ Your feedback is welcome! Feel free to open a **Pull Request** if you see areas 
 
 *Happy coding! Let’s tackle these problems one clean commit at a time.* 💪
 
-```
+
 
