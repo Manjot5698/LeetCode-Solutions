@@ -15,7 +15,7 @@ public class subSequences {
 
     }
     static void main() {
-        String str = "aaa";
+        String str = "abc";
         subsec(str,0,"");
 
     }
